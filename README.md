@@ -73,3 +73,7 @@ ROS package that automatically generates Cartesian space movements of the end-ef
 - rqt
 - moveit_commander
 - moveit_msgs
+
+Everything else you need to know is in the comments.
+
+Star, fork, do your thing.
